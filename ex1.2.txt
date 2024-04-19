@@ -1,0 +1,10 @@
+docker ps -a
+CONTAINER ID   IMAGE     COMMAND   CREATED   STATUS    PORTS     NAMES
+
+
+
+docker image ls
+REPOSITORY      TAG            IMAGE ID       CREATED         SIZE
+alpine/git      latest         241890ad72b1   23 months ago   38.2MB
+postgres        14.1           da2cb49d7a8d   2 years ago     374MB
+flyway/flyway   8.4.0-alpine   23cfb42a8de1   2 years ago     422MB
