@@ -1,0 +1,1 @@
+Ubuntu vesion's size is 83mb while the alpine one is 15.7mb.
